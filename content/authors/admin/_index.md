@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-¡Hola! I am currently a PhD candidate at [Laboratorio de Neurociencia @ Torcuato Di Tella University](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132) working on how contextual factors modulate decision-making using computational models. 
+I am currently a PhD candidate at [Laboratorio de Neurociencia @ Torcuato Di Tella University](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132) working on how contextual factors modulate decision-making using computational models. 
 
 I also have been teaching Chess and Science since 2015 at [Tres de Febrero National University](https://www.untref.edu.ar/carrera/diplomatura-universitaria-en-ensenanza-del-ajedrez) where I give an academic overview of Chess both as a subject and as a experimental tool for science.
 
