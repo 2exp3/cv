@@ -20,6 +20,9 @@ interests:
 - Decision-Making
 - Computational Models
 - Applied Statistics
+- Music
+- Chess
+- Swimming
 
 education:
   courses:
@@ -66,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-I am a potato.
+¡Hola! Agustin here, currently a PhD candidate at [Laboratorio de Neurociencia @ Torcuato Di Tella University](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132) working on how contextual factors modulate decision-making using computational models. 
+I also have been teaching Chess and Science since 2015 at [Tres de Febrero National University](https://www.untref.edu.ar/carrera/diplomatura-universitaria-en-ensenanza-del-ajedrez) where I give an academic overview of Chess both as a subject and as a experimental tool for science.
+I thrive on facing the challenges attached to learning new skills and knowledge. This plasticity has landed me jobs as a session guitar player, as an MC for a [Zoo and Aquariums conference](https://www.waza2019.org/), as a (small-role) singer in a [movie](https://es.wikipedia.org/wiki/Francisco:_El_padre_Jorge), and many other non-paid escapades.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
