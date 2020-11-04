@@ -22,14 +22,13 @@ interests:
 - Applied Statistics
 - Music
 - Chess
-- Swimming
 
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
     institution: University of Buenos Aires
     year: current
-  - course: Licentiate degree in Biotechnology and Molecular Biology
+  - course: Licentiate degree in Molecular Biology and Biotechnology
     institution: University of Buenos Aires
     year: 2013
 
@@ -72,10 +71,10 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD candidate at [Laboratorio de Neurociencia @ Torcuato Di Tella University](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132) working on how contextual factors modulate decision-making using computational models. 
+I am a PhD candidate studying how contextual factors modulate decision-making using computational models. 
 
 I also have been teaching Chess and Science since 2015 at [Tres de Febrero National University](https://www.untref.edu.ar/carrera/diplomatura-universitaria-en-ensenanza-del-ajedrez) where I give an academic overview of Chess both as a subject and as a experimental tool for science.
 
-I thrive on facing the challenges attached to learning new skills and knowledge. This plasticity has landed me jobs as a session guitar player, as an MC for a [Zoo and Aquariums conference](https://www.waza2019.org/), as a (small-role) singer in a [movie](https://es.wikipedia.org/wiki/Francisco:_El_padre_Jorge), and many other non-paid escapades.
+My overarching philosophy is facing the challenges attached to learning new skills and knowledge. This plasticity has landed me jobs as a session guitar player, as an MC for a [Zoo and Aquariums conference](https://www.waza2019.org/), as a (small-role) singer in a [movie](https://es.wikipedia.org/wiki/Francisco:_El_padre_Jorge), and many other non-paid escapades.
 
 
