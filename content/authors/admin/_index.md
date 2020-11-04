@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Universidad Torcuato Di Tella
-  url: ""
+  url: "https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include decision-making, computational models, applied statistics and Bayesian inference.
