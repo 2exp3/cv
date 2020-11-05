@@ -7,5 +7,5 @@ google_fonts = "Crimson+Text:wght@400;600;700|Roboto:400,400italic,700|Roboto+Mo
 # Font families
 heading_font = "Crimson Text"
 body_font = "Crimson Text"
-nav_font = "Roboto"
+nav_font = "Crimson Text"
 mono_font = "Roboto Mono"
