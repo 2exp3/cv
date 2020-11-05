@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "View my publications on [Google Scholar](https://scholar.google.com/citations?user=4qVjEXMAAAAJ&hl=es)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -57,7 +57,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true  
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -67,6 +67,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

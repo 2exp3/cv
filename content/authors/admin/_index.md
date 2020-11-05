@@ -14,7 +14,7 @@ organizations:
   url: "https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include decision-making, computational models, applied statistics and Bayesian inference.
+bio: My research interests include decision-making, computational models and applied statistics.
 
 interests:
 - Decision-Making
@@ -75,7 +75,7 @@ user_groups:
 ---
 
 I am a graduate student studying [how contextual factors modulate decision-making using computational models](https://www.utdt.edu/ver_contenido.php?id_contenido=15028&id_item_menu=25677). Stemming from the ideas of [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality) and the [somatic marker hypothesis](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis), I aim to pinpoint the mechanisms that underlie the changes in how we decide when integrating external information that is not related to the decision *per se*. My work is inherently interdisciplinary, drawing on theory from cognitive psychology and neuroscience that I implement with computational and statistical methods.
-As my overarching personal and professional philosophy is rooted in curiosity, I also devote time to learn new skills, which has crystallized in side-projects and uncanny [escapades](escapades/).
+As my overarching personal and professional philosophy is rooted in curiosity, I also devote time to learn new skills, which has crystallized in side-projects and [escapades](escapades/).
 
 
 
