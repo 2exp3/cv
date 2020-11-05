@@ -22,6 +22,9 @@ interests:
 - Applied Statistics
 - Music
 - Chess
+  - icon: chess-knight
+    icon_pack: fab
+    link: https://lichess.org/@/apsaps
 
 education:
   courses:
@@ -52,6 +55,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/r6dvu
+- icon: chess-knight
+  icon_pack: fab
+  link: https://lichess.org/@/apsaps
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -71,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate studying how contextual factors modulate decision-making using computational models. 
+I am a graduate student studying how contextual factors modulate decision-making using computational models. 
 
 I also have been teaching Chess and Science since 2015 at [Tres de Febrero National University](https://www.untref.edu.ar/carrera/diplomatura-universitaria-en-ensenanza-del-ajedrez) where I give an academic overview of Chess both as a subject and as a experimental tool for science.
 
