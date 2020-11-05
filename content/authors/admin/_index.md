@@ -22,15 +22,12 @@ interests:
 - Applied Statistics
 - Music
 - Chess
-  - icon: chess-knight
-    icon_pack: fab
-    link: https://lichess.org/@/apsaps
 
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
     institution: University of Buenos Aires
-    year: current
+    year: 2016 - today
   - course: Licentiate degree in Molecular Biology and Biotechnology
     institution: University of Buenos Aires
     year: 2013
@@ -77,10 +74,11 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student studying how contextual factors modulate decision-making using computational models. 
+I am a graduate student studying [how contextual factors modulate decision-making using computational models](https://www.utdt.edu/ver_contenido.php?id_contenido=15028&id_item_menu=25677). Stemming from the ideas of [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality) and the [somatic marker hypothesis](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis), I aim to pinpoint the mechanisms that underlie the changes in how we decide when integrating external information that is not related to the decision *per se*. My work is inherently interdisciplinary, drawing on theory from cognitive psychology and neuroscience that I implement with computational and statistical methods.
+As my overarching personal and professional philosophy is rooted in curiosity I also devote time to learn new skills, which has crystallized in side-projects and uncanny escapades.
+
+ has landed me jobs as a session guitar player, as an MC for a [Zoo and Aquariums conference](https://www.waza2019.org/), as a (small-role) singer in a [movie](https://es.wikipedia.org/wiki/Francisco:_El_padre_Jorge), and many other non-paid escapades.
 
 I also have been teaching Chess and Science since 2015 at [Tres de Febrero National University](https://www.untref.edu.ar/carrera/diplomatura-universitaria-en-ensenanza-del-ajedrez) where I give an academic overview of Chess both as a subject and as a experimental tool for science.
-
-My overarching philosophy is facing the challenges attached to learning new skills and knowledge. This plasticity has landed me jobs as a session guitar player, as an MC for a [Zoo and Aquariums conference](https://www.waza2019.org/), as a (small-role) singer in a [movie](https://es.wikipedia.org/wiki/Francisco:_El_padre_Jorge), and many other non-paid escapades.
 
 
