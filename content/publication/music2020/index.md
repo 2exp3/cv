@@ -1,12 +1,12 @@
 ---
-title: "The Beatable Mind: Music changes the policy of human decision-making"
+title: "The Beatable Mind: Music changes the policy of human decision-making (under review)"
 authors:
 - admin
 - Casimir J.H. Ludwig
 - Joaquin Navajas
 - Mariano Sigman
 - Maria Juliana Leone
-date: ""
+date: "2020-12-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,14 +35,14 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: Under review
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: ''
+url_code: 'https://osf.io/fguq6/'
+url_dataset: 'https://osf.io/fguq6/'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: 'https://osf.io/fguq6/'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
