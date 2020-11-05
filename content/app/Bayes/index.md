@@ -5,11 +5,10 @@ summary: A simple app to develop intuitions about Bayesian probability. In spani
 #- Demo
 date: "2020-11-01"
 
-url_code: 'https://github.com/2exp3/Bayes'
-
 # Optional external URL for project (replaces project detail page).
 external_link: https://2exp3.shinyapps.io/Bayes/
 
 #image:
 #  focal_point: Smart
 ---
+[Code](https://github.com/2exp3/Bayes)
