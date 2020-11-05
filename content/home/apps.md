@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Apps"
-subtitle = ""
+subtitle = "A collection of Shiny Apps developed for various purposes."
 
 [content]
   # Page type to display. E.g. project.
@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List

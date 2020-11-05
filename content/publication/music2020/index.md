@@ -6,7 +6,7 @@ authors:
 - Joaquin Navajas
 - Mariano Sigman
 - Maria Juliana Leone
-date: "2020-12-31"
+date: "2020-11-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
