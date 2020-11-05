@@ -5,7 +5,7 @@ type: "widget_page"  # Page type is a Widget Page
 view: 2
 ---
  
- # Science Communication
+ ## Science Communication
 
 {{< icon name="brain" pack="fas" >}}
 Talk about the cognitive effects of context on human decision-making. [*Fundaments and Applications of Interdiscipline*](https://sites.google.com/view/jfai2019/home?authuser=0).
@@ -28,7 +28,8 @@ Collaborated at [*Un Festival de Ciencia*](https://expedicionciencia.org.ar/unfe
 Scientific festival for kids and adults at [Konex](https://www.cckonex.org/).
 
 
-# Music
+
+## Music
 
 {{< icon name="guitar" pack="fas" >}} 
 Studied classical guitar at the [local conservatory of music](https://cmfalla-caba.infd.edu.ar/sitio/).
@@ -37,7 +38,8 @@ Studied classical guitar at the [local conservatory of music](https://cmfalla-ca
 Short piece for classical guitar [Héctor Ayala - Choro (Brasil)](https://www.youtube.com/watch?v=VbcKVYNiVOc).
  
 
-# Public Communication
+
+## Public Communication
 
 {{< icon name="broadcast-tower" pack="fas" >}} 
 Studied journalism and communication at [ISER](https://www.argentina.gob.ar/iser) where I graduated as a radio and TV announcer.
