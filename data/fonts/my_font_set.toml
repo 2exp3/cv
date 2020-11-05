@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Crimson+Text:wght@400;600;700|Roboto:wght@300,400italic,700|Roboto+Mono"
+google_fonts = "Crimson+Text:wght@400;600;700|Roboto:ital,wght@0,400;1,300|Roboto+Mono"
 
 # Font families
 heading_font = "Crimson Text"
 body_font = "Crimson Text"
 nav_font = "Roboto"
-mono_font = "Roboto Mono"
+mono_font = "Roboto"
