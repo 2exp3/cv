@@ -7,8 +7,9 @@ date: "2020-11-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://2exp3.shinyapps.io/Bayes/
+weight: 2 
 
+linkTitle: [Code](https://github.com/2exp3/Bayes)
 #image:
 #  focal_point: Smart
 ---
-[Code](https://github.com/2exp3/Bayes)

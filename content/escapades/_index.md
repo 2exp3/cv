@@ -29,6 +29,7 @@ Scientific festival for kids and adults at [Konex](https://www.cckonex.org/).
 
 
 
+
 ## Music
 
 {{< icon name="guitar" pack="fas" >}} 
@@ -39,12 +40,13 @@ Short piece for classical guitar [Héctor Ayala - Choro (Brasil)](https://www.yo
  
 
 
+
 ## Public Communication
 
 {{< icon name="broadcast-tower" pack="fas" >}} 
 Studied journalism and communication at [ISER](https://www.argentina.gob.ar/iser) where I graduated as a radio and TV announcer.
 
 {{< icon name="microphone" pack="fas" >}} 
-Worked as [MC](https://en.wikipedia.org/wiki/Master_of_ceremonies) for the [Zoo and Aquariums annual conference](https://www.waza2019.org/), 
+Worked as [MC](https://en.wikipedia.org/wiki/Master_of_ceremonies) for the [Zoo and Aquariums annual conference](https://www.waza2019.org/). 
 
 

@@ -3,8 +3,8 @@ title: "Time to shine: reliable timing using R-Shiny for online experiments (pre
 authors:
 - admin
 - Guillermo Solovey
-date: "2020-11-01"
-doi: ""
+date: "2020-11-08"
+doi: "10.31234/osf.io/nuxdg"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
+url_pdf: 'https://psyarxiv.com/nuxdg'
 url_code: 'https://osf.io/6gmzs/'
 url_dataset: 'https://osf.io/6gmzs/'
 url_poster: ''
