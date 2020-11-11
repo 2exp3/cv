@@ -1,5 +1,5 @@
 ---
-title: Shiny Bayes
+title: Bayes
 summary: A simple app to develop intuitions about Bayesian probability. In spanish.
 #tags:
 #- Demo

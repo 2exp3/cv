@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:asantangelo@utdt.edu'  # For a direct email link, use "mailto:asantangelo@utdt.edu".
+  link: 'mailto:agusantangelo@gmail.com'  # For a direct email link, use "mailto:asantangelo@utdt.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/2exp3
