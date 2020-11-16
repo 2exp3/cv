@@ -28,7 +28,7 @@ education:
   - course: PhD in Cognitive Neuroscience
     institution: University of Buenos Aires
     year: 2016 - today
-  - course: Licentiate degree in Molecular Biology and Biotechnology
+  - course: [Licentiate degree](https://en.wikipedia.org/wiki/Licentiate_(degree)#Argentina) in Molecular Biology and Biotechnology
     institution: University of Buenos Aires
     year: 2013
 
