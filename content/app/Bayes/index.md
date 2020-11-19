@@ -1,6 +1,6 @@
 ---
 title: Bayes
-summary: A simple app to develop intuitions about Bayesian probability. In spanish.
+summary: A simple app to develop intuitions about Bayesian probability. In Spanish.
 #tags:
 #- Demo
 date: "2020-11-01"

@@ -1,6 +1,6 @@
 ---
 title: WordCloud
-summary: A cross-platform app that transforms many types of text-inputs into highly-customizable -and downloadable- wordclouds.
+summary: A cross-platform app that transforms many types of text-inputs into highly-customizable -and downloadable- wordclouds. In Spanish.
 
 # tags:
 date: "2020-11-09"

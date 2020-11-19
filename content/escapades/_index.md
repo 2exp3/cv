@@ -1,6 +1,6 @@
 ---
 title: "Other stuff I do"  # Add a page title.
-summary: "Other stuff I do"  # Add a page description.
+summary: ""  # Add a page description.
 type: "widget_page"  # Page type is a Widget Page
 view: 2
 ---
