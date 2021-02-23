@@ -1,5 +1,5 @@
 ---
-title: "The Beatable Mind: Music changes the policy of human decision-making (under review)"
+title: "Music Changes the Policy of Human Decision-Making (in review)"
 authors:
 - admin
 - Casimir J.H. Ludwig
