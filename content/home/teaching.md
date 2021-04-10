@@ -20,4 +20,4 @@ Since 2015, I teach this biannual course at [Tres de Febrero National University
 
 {{< icon name="flask" pack="fas" >}} **Science** 
 
-In 2016, I took on the challenge of teaching science (in english) for first-year high-school students at the bilingual school [Colegio Santa Teresita](https://www.colegiosteresita.edu.ar/web/test-index), where we learnt about physical, chemical and biological processess both in the classroom and at the lab.
+In 2016, I took on the challenge of teaching science (in English) for first-year high-school students at the bilingual school [Colegio Santa Teresita](https://www.colegiosteresita.edu.ar/web/test-index), where we learnt about physical, chemical and biological processes both in the classroom and at the lab.

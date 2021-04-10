@@ -1,5 +1,5 @@
 ---
-title: "Time to Shine: Reliable Response-Timing Using R-Shiny for Online Experiments (preprint)"
+title: "Running Online Behavioral Experiments Using R: Implementation of a Response-Time Decision Making Task as an R-Shiny App (preprint)"
 authors:
 - admin
 - Guillermo Solovey
