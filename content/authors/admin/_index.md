@@ -42,7 +42,7 @@ social:
   link: 'mailto:agusantangelo@gmail.com'  # For a direct email link, use "mailto:asantangelo@utdt.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/2exp3
+  link: https://twitter.com/PerezSantangelo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4qVjEXMAAAAJ&hl=es
