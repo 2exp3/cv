@@ -1,6 +1,5 @@
 ---
-draft: true
-title: "Learning-by-teaching approach improves children and parent’s dengue knowledge (under review)"
+title: "Learning-by-teaching approach improves children and parent’s dengue knowledge (In press)"
 authors:
 - Maria Julia Hermida
 - admin
@@ -19,16 +18,17 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "American Journal of Tropical Medicine and Hygiene"
+publication_short: "AJTMH"
 
-abstract: "There is narrow evidence on which strategies are more effective to disseminate public health information. This is particularly relevant for many neglected diseases, as dengue, for which social habits have a great prevention capacity. We investigated whether learning by teaching can amplify the impact of dengue disease school talks.
-In study 1 (n=155) we compared the dynamics of dengue knowledge of 10-year-old children who -after receiving a dengue talk- a) listened to an unrelated topic; b) read a booklet with information about dengue, c) taught their parents about dengue, or d) taught their parents about dengue, using the booklet. Results showed that children that taught to their parents what they had learned boosted their learning, including long-term retention, only when the teaching process is scaffolded with visual material.
-In study 2 (n=97), we assessed whether the parents’ dengue knowledge changed after interacting with their children, in comparison with parents learning about dengue from an expert or about an unrelated topic. Results indicated that parents learned from their children the same as from an expert, and significantly more than a control group (which learned about an unrelated topic).
-Our results showed that the simple action of prompting children to teach consolidated their own knowledge and broadcasted it effectively to their parents. This is then a costless strategy with potential for information spreading that might translate to public health strengthening."
+abstract: "There is narrow evidence on which strategies are more effective to disseminate public health information. This is particularly relevant for dengue, for which social habits have a great prevention capacity. We investigated how effective are children as health educators, and how much they learn as they teach.
+We recruited 142 children and 97 parents in Argentina’s tropical area for two cluster randomized parallel trials. In Study 1 we compared the dynamics of dengue knowledge of 10-year-old children who -after receiving a dengue talk- a) listened to an unrelated topic; b) read a booklet with information about dengue, c) taught their parents about dengue, or d) taught their parents about dengue, using the booklet.
+In Study 2, we assessed whether the parents’ dengue knowledge changed after interacting with their children, in comparison with parents learning about dengue from an expert or about an unrelated topic.
+Children that taught their parents what they learned, using a booklet, showed 2.53 more correct responses (IC95% [0.20, 4.85]; p = 0.027) than the control group. This style of teaching also serves to effectively propagate knowledge: parents learned from their children the same as from an expert; and significantly more than a control group, even if they were taught with booklets (1.49, IC95% [0.01, 2.96]; p = 0.048) or without (1.94, IC95% [0.44, 3.44]; p= 0.006).  Specifically, after being taught by their children, parents showed on average 1.49 (if they were taught with a booklet) and 1.94 (without booklet) more correct responses than the control group.
+The simple action of prompting children to teach consolidated their own knowledge and broadcasted it effectively to their parents. This strategy is a potential low to no-cost method for sharing information about dengue prevention."
 
 
 # Summary. An optional shortened abstract.

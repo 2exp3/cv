@@ -22,7 +22,7 @@ doi: "https://doi.org/10.1371/journal.pbio.1001733"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *PLOS Biology*"
+publication: "PLoS Biology"
 # publication_short: ""
 
 abstract: "Living organisms use biological clocks to maintain their internal temporal order and anticipate daily environmental changes. In Drosophila, circadian regulation of locomotor behavior is controlled by ∼150 neurons; among them, neurons expressing the PIGMENT DISPERSING FACTOR (PDF) set the period of locomotor behavior under free-running conditions. To date, it remains unclear how individual circadian clusters integrate their activity to assemble a distinctive behavioral output. Here we show that the BONE MORPHOGENETIC PROTEIN (BMP) signaling pathway plays a crucial role in setting the circadian period in PDF neurons in the adult brain. Acute deregulation of BMP signaling causes period lengthening through regulation of dClock transcription, providing evidence for a novel function of this pathway in the adult brain. We propose that coherence in the circadian network arises from integration in PDF neurons of both the pace of the cell-autonomous molecular clock and information derived from circadian-relevant neurons through release of BMP ligands."
