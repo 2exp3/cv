@@ -29,7 +29,7 @@ abstract: "Online experiments allow for fast, massive, cost-efficient data colle
 
 featured: false
 
-#links:
+links:
 - name: OSF
   url: https://osf.io/6gmzs/
 url_pdf: 'https://www.journalofcognition.org/articles/10.5334/joc.200/galley/581/download/'
