@@ -42,7 +42,7 @@ subtitle = "A collection of [R-Shiny](https://shiny.rstudio.com/) web apps and [
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = "Masonry"
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
