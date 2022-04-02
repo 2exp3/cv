@@ -32,12 +32,13 @@ subtitle = "View my publications on [Google Scholar](https://scholar.google.com/
     exclude_featured = false
   
 [design]
+ columns = "1"
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
