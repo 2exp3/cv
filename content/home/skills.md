@@ -15,16 +15,46 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "code"
-  icon_pack = "fab"
-  name = "Programming languages"
-  description = "R, Python, MatLab, JavaScript"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistical modeling"
-  description = ""  
+  description = "With Bayesian and frequentist methods"  
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Computational modeling"
+  description = "Behavioral and physiological"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "Main programming language"
+  
+[[feature]]
+  icon = "shiny"
+  icon_pack = "custom"
+  name = "R-Shiny"
+  description = "Web-app development"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Python, HTML, CSS, SASS, JavaScript, MatLab"
+  description = "Other programming languages"
+
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Version control"
+
+[[feature]]
+  icon = "jira"
+  icon_pack = "fab"
+  name = "Jira"
+  description = "Project development"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -36,10 +66,6 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-[[feature]]
-  icon = "Shiny"
-  icon_pack = "custom"
-  name = "R-Shiny"
-  description = "Web-app development"
+
 
 +++
