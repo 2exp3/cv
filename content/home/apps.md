@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Apps"
-subtitle = "A collection of Shiny Apps developed for various purposes. Code for all apps is available in my [GitHub](https://github.com/2exp3)."
+title = "Web Apps & Reports"
+subtitle = "A collection of [R-Shiny](https://shiny.rstudio.com/) web apps and [R-Markdown](https://rmarkdown.rstudio.com/) reports developed for various purposes.<br>Code for everything displayed here is available in my [GitHub](https://github.com/2exp3)."
 
 [content]
   # Page type to display. E.g. project.

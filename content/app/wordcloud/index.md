@@ -7,6 +7,6 @@ date: "2020-11-09"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://2exp3.shinyapps.io/wordcloud/
-weight: 2 
+weight: 5 
 ---
-[Code](https://github.com/2exp3/wordcloud).
+[Code](https://github.com/2exp3/wordcloud)

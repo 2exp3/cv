@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Apps"
+  name = "Web Apps & Reports"
   url = "#apps"
   weight = 50
 

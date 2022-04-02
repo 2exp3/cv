@@ -9,4 +9,4 @@ date: "2020-12-09"
 external_link: https://2exp3.shinyapps.io/mapa-ciclista/
 weight: 1 
 ---
-[Code](https://2exp3.shinyapps.io/mapa-ciclista/).
+[Code](https://2exp3.shinyapps.io/mapa-ciclista/)
