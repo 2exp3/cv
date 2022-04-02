@@ -17,7 +17,7 @@ columns = "2"
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Coding"
+  name = "Programming"
   description = "R | Python | MatLab | JavaScript | HTML | CSS/SASS"
 
 [[feature]]
