@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "List of publications is also available on my [Google Scholar](https://scholar.google.com/citations?user=4qVjEXMAAAAJ&hl=es)."
+subtitle = "List of peer-reviewed articles. Also available on my [Google Scholar](https://scholar.google.com/citations?user=4qVjEXMAAAAJ&hl=es)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -1,6 +1,6 @@
 ---
 title: Absenteeism
-summary: Interactive [R-Markdown](https://rmarkdown.rstudio.com/) report that describes [absenteesim](https://en.wikipedia.org/wiki/Absenteeism) -patients missing their appointments- in the public healthcare system of Buenos Aires City, Argentina. In Spanish.
+summary: Interactive [R-Markdown](https://rmarkdown.rstudio.com/) report describing [absenteesim](https://en.wikipedia.org/wiki/Absenteeism) -patients missing their appointments- in the public healthcare system of Buenos Aires. In Spanish.
 
 # tags:
 date: "2021-08-01"
