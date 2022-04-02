@@ -32,6 +32,7 @@ subtitle = "List of publications is also available on my [Google Scholar](https:
     exclude_featured = false
   
 [design]
+ columns = "1"
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
