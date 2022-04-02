@@ -1,5 +1,5 @@
 ---
-title: "Using long ssDNA polynucleotides to amplify STRs loci in degraded DNA samples"
+title: "Using Long ssDNA Polynucleotides to Amplify STRs Loci in Degraded DNA Samples"
 authors:
 - Martin E. Mautner
 - admin
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0187190&type=printable'
 url_code: ''
 url_dataset: ''
 url_poster: ''

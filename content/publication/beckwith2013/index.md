@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001733&type=printable'
 url_code: ''
 url_dataset: ''
 url_poster: ''

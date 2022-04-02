@@ -30,11 +30,11 @@ abstract: "Online experiments allow for fast, massive, cost-efficient data colle
 featured: false
 
 links:
-- name: OSF
+- name: OSF (data and code)
   url: https://osf.io/6gmzs/
 url_pdf: 'https://www.journalofcognition.org/articles/10.5334/joc.200/galley/581/download/'
-url_code: 'https://osf.io/6gmzs/'
-url_dataset: 'https://osf.io/6gmzs/'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
