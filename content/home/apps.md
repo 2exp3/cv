@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Web Apps & Reports"
-subtitle = "A collection of [R-Shiny](https://shiny.rstudio.com/) web apps and [R-Markdown](https://rmarkdown.rstudio.com/) reports developed for various purposes.<br>Code for everything displayed here is available in my [GitHub](https://github.com/2exp3)."
+subtitle = "A collection of [R-Shiny](https://shiny.rstudio.com/) web apps and [R-Markdown](https://rmarkdown.rstudio.com/) reports developed for various purposes.<br><br>Code for everything displayed here is available in my [GitHub](https://github.com/2exp3)."
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = "A collection of [R-Shiny](https://shiny.rstudio.com/) web apps and [
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

@@ -1,5 +1,5 @@
 ---
-title: Ships Dashboard
+title: Ships
 summary: A dashboard that displays how and when ships moved using [AIS](https://en.wikipedia.org/wiki/Automatic_identification_system) data, along with vessel-sepecific information and a rank-plot comparing vessels.
 
 # tags:
