@@ -6,7 +6,7 @@ authors:
 - Joaquin Navajas
 - Mariano Sigman
 - Maria Juliana Leone
-date: "2022-04-04"
+date: "2022-04-01"
 doi: "http://dx.doi.org/10.1037/xge0001189"
 
 # Schedule page publish date (NOT publication's date).
