@@ -7,7 +7,7 @@ weight = 15  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
-
+columns = "2"
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
